@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="8986" started-at="2019-03-25T03:07:01Z" finished-at="2019-03-25T03:07:10Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="8986" started-at="2019-03-25T03:07:01Z" finished-at="2019-03-25T03:07:10Z">
+      <class name="diyici.diyici">
+        <test-method status="PASS" signature="setUpBeforeClass()[pri:0, instance:diyici.diyici@71e7a66b]" name="setUpBeforeClass" is-config="true" duration-ms="3086" started-at="2019-03-25T11:07:01Z" finished-at="2019-03-25T11:07:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeClass -->
+        <test-method status="PASS" signature="denglu()[pri:0, instance:diyici.diyici@71e7a66b]" name="denglu" duration-ms="5886" started-at="2019-03-25T11:07:05Z" finished-at="2019-03-25T11:07:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- denglu -->
+        <test-method status="PASS" signature="tearDownAfterClass()[pri:0, instance:diyici.diyici@71e7a66b]" name="tearDownAfterClass" is-config="true" duration-ms="0" started-at="2019-03-25T11:07:10Z" finished-at="2019-03-25T11:07:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownAfterClass -->
+      </class> <!-- diyici.diyici -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
